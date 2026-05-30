@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.pyc
+__pycache__/
+tripod_side_b/
+tripod_side_c/
+node_modules/

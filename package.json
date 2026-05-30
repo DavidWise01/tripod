@@ -1,0 +1,13 @@
+{
+  "name": "tripod",
+  "version": "4.0.0",
+  "description": "5-Stage Governance Pipeline. Pre-Router/Feedback Validator/Generator/Post-Validator/Enforcer mapped to 5 Cubits (Vessel/Animation/Intellect/Nourishment/Life). Side B/C logging. TRIPOD-PROOF IP schema. Python CLI + visual HTML flay.",
+  "author": "David Lee Wise (ROOT0) / TriPod LLC",
+  "license": "CC-BY-ND-4.0",
+  "homepage": "https://github.com/DavidWise01/tripod",
+  "repository": {"type":"git","url":"https://github.com/DavidWise01/tripod.git"},
+  "keywords": [
+    "tripod","governance","5-cubits","flay","post-validator","side-b-c",
+    "provenance","lineage","bias-detection","root0","tripod-llc"
+  ]
+}

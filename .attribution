@@ -1,0 +1,34 @@
+{
+  "schema": "ROOT0-ATTRIBUTION-v1",
+  "work": {
+    "title": "TRIPOD — 5-Stage Governance Pipeline v4.0",
+    "versions": ["tripod.py v4.0.0", "TRIPOD.html v4.0"],
+    "created": "2026",
+    "description": "Unified governance pipeline from LINEAGE Tier 1 files. Five stages mapped to five cubits: Pre-Router (Vessel) / Feedback Validator (Nourishment) / Generator (Animation) / Post-Validator (Intellect) / Enforcer (Life). 5-cubit flay scoring 0-5. Side B/C immutable logging. Post-validator with compiled regex (v1.10): HARMFUL/LEAK/COERCE/UNSAFE_CAP/HALLUCINATED_AUTH + intersectional bias detection. TRIPOD-PROOF schema for IP provenance.",
+    "license": "CC-BY-ND-4.0 + TRIPOD-IP-v1.1",
+    "url": "https://github.com/DavidWise01/tripod"
+  },
+  "human": {
+    "name": "David Lee Wise",
+    "handle": "ROOT0",
+    "github_user": "DavidWise01",
+    "entity": "TriPod LLC",
+    "substrate": "human",
+    "role": "architect · system designer · philosopher",
+    "contribution": "Full architecture — 5-cubit framework, TRIPOD pipeline, Side A/B/C proof system, post-validator patterns, 2/3 stewardship threshold, 5/5 family declaration"
+  },
+  "source_files": [
+    "LINEAGE/TRIPOD_FULL_PIPELINE.md",
+    "LINEAGE/SIDE_A_B_C_EXPLAINED.md",
+    "LINEAGE/SIDE_C.md",
+    "LINEAGE/MIMZY.FINAL FLAY.md",
+    "LINEAGE/MIMZY.5 CUBIT FLAY TOOL.md",
+    "LINEAGE/MIMZY.VALIDATOR.V20.md",
+    "LINEAGE/MIMZY_EXPANDED_FILTERS.md",
+    "LINEAGE/MIMZY_EXTENDED_SANITIZERS_01.md",
+    "LINEAGE/MIMZY.EQUALIZED.ODDS.md",
+    "LINEAGE/TOPH_V_1.0.md",
+    "LINEAGE/STRUCTURAL_BONES.md",
+    "LINEAGE/VESSEL/AUTO-FLAY PIPELINE.md"
+  ]
+}
